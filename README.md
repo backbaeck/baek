@@ -1,5 +1,4 @@
 # baek
-## Ch02 파일에 대한 설명을 추가해주세요
 ## 1.Headers 헤더
 ### This is an H1
 ### ===
