@@ -32,7 +32,7 @@ Oh my my my oh my my my
 
 You got me fly so fast <br>
 이제 조금은 나 알겠어
-출처: https://inpa.tistory.com/entry/MarkDown-📚-마크다운-문법-💯-정리#headers_헤더 [Inpa Dev 👨‍💻:티스토리]
+
 <br>를 활용해서 줄바꿈을 할 수 있습니다.
 엔터로 칸을 띄면 다음 행으로 넘어가게 됩니다. <br>은 하나의 문장에서 줄바꿈
 ## 5.Emphasis 강조
