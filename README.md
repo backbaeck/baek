@@ -1,6 +1,6 @@
 # baek
 ## Ch02 파일에 대한 설명을 추가해주세요
-##1.Headers 헤더
+## 1.Headers 헤더
 This is an H1
 ===
 This is an H2
@@ -17,14 +17,14 @@ H2는 ---로도 만들 수 있습니다.
 인라인 이미지 ![alt text](/test.png)
 링크 이미지 ![alt text](image_URL)
 이미지의 사이즈를 변경하기 위해서는 <img width="OOOpx" height="OOOpx"></img>와 같이 표현합니다.
-###3.수평선 <hr/>
+## 3.수평선 <hr/>
 * * *
 ***
 *****
 - - -
 -------------------
 아래 줄은 모두 수평선을 만든다. 마크다운 문서를 미리보기로 출력할 때 페이지 나누기 용도로 많이 사용한다.
-##4.Line Breaks 줄바꿈
+## 4.Line Breaks 줄바꿈
 Oh my my my oh my my my
 You got me high so fast <br>
 네 전부를 함께하고 싶어
@@ -35,7 +35,7 @@ You got me fly so fast <br>
 출처: https://inpa.tistory.com/entry/MarkDown-📚-마크다운-문법-💯-정리#headers_헤더 [Inpa Dev 👨‍💻:티스토리]
 <br>를 활용해서 줄바꿈을 할 수 있습니다.
 엔터로 칸을 띄면 다음 행으로 넘어가게 됩니다. <br>은 하나의 문장에서 줄바꿈
-##5.Emphasis 강조
+## 5.Emphasis 강조
 _This will also be italic_
 
 **This will also be bold**
